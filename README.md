@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sirapoom
 - 👀 I’m interested in Digital Agriculture, Agriculturel Remote Sensing and Data Science 
 - 🌱 I’m currently learning complex data science project management
-- 💞️ I’m looking for opportunities to grow and learn
 - 📫 How to reach me LinkedIn/sirapoompeanusaha
 
 <!---
